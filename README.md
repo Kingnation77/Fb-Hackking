@@ -8,10 +8,6 @@
 It's a Tool For MultiBrute FaceBook Accounts Without PassWordlists
 
 # Introduction 
-+ **Tutorial** : <a href='https://youtu.be/OGDl-sypX8s?si=49AKB4B1U1NCZ2fX'>Click Here</a>
-## Cracker Tool
-Facebook Accounts Fast cracker
-
 # Facebook Account Cracking Tool
  
 This is a tool that will help you crack Facebook account very without Password List!.
@@ -24,7 +20,7 @@ This is a tool that will help you crack Facebook account very without Password L
 apt update && apt upgrade
 pkg install python
 pkg install git
-git clone https://github.com/STARK-404/FB-HACK/
+git clone https://github.com/Kingnation77/FB-Hackking/
 cd FB-HACK 
 pip install -r requirments.txt
 python Run.py
@@ -33,7 +29,7 @@ python Run.py
 ```
 sudo apt update && sudo apt upgrade
 sudo apt install python3
-git clone https://github.com/STARK-404/FB-HACK/
+git clone https://github.com/Kingnation77/FB-Hackking/
 cd FB-HACK 
 pip install -r requirements.txt
 python3 Run.py
@@ -66,28 +62,6 @@ python3 Run.py
 
 
 # Author 
-### [✓] STARK
+### [✓] Kingnation77
 ## Follow Me
-<a href="https://github.com/STARK-404/"><img title="Github" src="https://img.shields.io/badge/STARK-404-brightgreen?style=for-the-badge&logo=github"></a>
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://instagram.com/la1uuuuu?igshid=YmMyMTA2M2Y=)
 
-
-## Screenshot
-+ Termux 
-[View Screenshot](http://starkstore.42web.io/Screenshot.termux.png)
-+ Kali
-[view Screenshot](http://starkstore.42web.io/screenshot.png)
-# Support
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://instagram.com/la1uuuuu?igshid=YmMyMTA2M2Y=)
-
-![Discord](https://dcbadge.vercel.app/api/shield/880701719141572618)
-# Note 
-_Don't Try to Crack Bit**hes_
-
-# WARNING
-
-***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.**
-
-### Support Me 
-
-<a href="https://www.buymeacoffee.com/mrstarkin" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
